@@ -19,7 +19,7 @@
         您好,
     </div>
     <div style="margin:30px;">
-        您的<font>中国连锁企业从业人员信息查询平台</font>企业账号已开通
+        您的<font>Spring-boot freemarker</font>企业账号已开通
     </div>
     <div style="margin:30px;">
         已可登陆使用。
@@ -31,10 +31,10 @@
         初始密码：${password}
     </div>
     <div style="margin:30px;">
-        感谢您注册中国连锁企业从业人员信息查询平台
+        感谢您
     </div>
     <div style="margin:30px;">
-        <font>中国连锁企业从业人员信息查询平台</font>
+        <font>Corazono</font>
     </div>
     <div>
     ${createTime?string('yyyy-MM-dd')}
